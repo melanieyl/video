@@ -15,7 +15,7 @@ void main() {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(Icons.mail_lock),
+        child: Icon(Icons.mail),
       ),
       bottomNavigationBar: BottomAppBar(
         shape: const CircularNotchedRectangle(),
