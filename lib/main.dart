@@ -4,7 +4,7 @@ void main() {
   var app = MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: const Text("mi primera aplicacion la mejor"),
+        title: const Text("mi primera aplicacion"),
       ),
       body: Container(
         child: const Center(
